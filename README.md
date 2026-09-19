@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ToprakTureci">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Toprak" alt="Hello! I'm Toprak" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Toprak" alt="Hello! I&#39;m Toprak" />
   </a>
 </p>
 
@@ -10,12 +10,12 @@
 
 ### 🚀 About Me
 
-Founder of **TTCodersStudio**. 3D Designer and Game Developer passionate about crafting immersive digital worlds. Creator of *Delivery Guy Sim*, *GeoMystery*, and *Last Breath on Island*.
+Founder of TTCodersStudio. 3D Designer and Game Developer passionate about crafting immersive digital worlds. Creator of Delivery Guy Sim, GeoMystery, and Last Breath on Island
 
-*   🔭 &nbsp; **Currently working on:** Developing and polishing *Delivery Guy Sim*
-*   🌱 &nbsp; **Currently learning:** Python programming and script automation
-*   💬 &nbsp; **Ask me about:** 3D Design, Game Development, Unity/Unreal, TTCodersStudio
-*   😄 &nbsp; **Pronouns:** he/him
+🔭 &nbsp;I'm currently working on **Delivery Guy Sim.**  
+🌱 &nbsp;I'm currently learning **Python programming and script automation**  
+💬 &nbsp;Ask me about **3D Design, Game Development, Unity/Unreal, TTCodersStudio**  
+😄 &nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
 
@@ -39,28 +39,27 @@ Founder of **TTCodersStudio**. 3D Designer and Game Developer passionate about c
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/ttcodersstudio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://youtube.com/@ttcodersstudio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://ttcodersstudio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://instagram.com/ttcodersstudio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://youtube.com/@ttcodersstudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://ttcodersstudio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://vercel.app" alt="Toprak's GitHub Stats" />
-  <img height="180" src="https://vercel.app" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ToprakTureci&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://vercel.app" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ToprakTureci&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://vercel.app" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
