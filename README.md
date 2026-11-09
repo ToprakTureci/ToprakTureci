@@ -14,13 +14,14 @@
   <tr>
     <td width="60%" valign="top">
       <p>I am a passionate <b>Game Developer</b>, <b>3D Designer</b>, and full-stack enthusiast dedicated to building rich, engaging interactive experiences. As the founder of <b>TTCodersStudio</b>, I lead projects from conceptual 3D modeling to robust back-end implementation.</p>
+      <p>Alongside game development, I love solving complex algorithms. I am a student at <b>Yaşar Kımıl Fen Lisesi</b> and ranked <b>10th in Turkey</b> in the 31st National Logic & Brain Teasers Competition organized by the <b>Turkish Intelligence Foundation (TZV)</b>. Driven by science and structural logic, I strive to push the boundaries of digital innovation.</p>
       <br>
       <ul>
         <li>🔭 &nbsp;<strong>Currently building:</strong> <a href="#">Delivery Guy Sim</a></li>
         <li>🌱 &nbsp;<strong>Mastering:</strong> Advanced Python Automation & Scripting</li>
         <li>🎮 &nbsp;<strong>Featured Titles:</strong> <i>GeoMystery</i>, <i>Last Breath on Island</i></li>
         <li>💬 &nbsp;<strong>Let's talk about:</strong> Unity, Unreal Engine, Game Architecture, 3D Assets</li>
-        <li>pronouns: He/Him</li>
+        <li>🧬 &nbsp;<strong>Pronouns:</strong> He/Him</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -69,6 +70,20 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ToprakTureci&bg_color=0B0F19&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+
+---
+
+## 🧬 Roots & Inspiration
+
+<table align="center" width="100%">
+  <tr>
+    <td bgcolor="#0B0F19" style="padding:15px; border: 1px solid #1A233A; border-radius: 8px;">
+      <p align="left">
+        Born in Denizli, with roots tracing back to Rize, technology and scientific curiosity run deep in my lineage. I am proud to share a family bond and legacy with <b>Dr. Özlem Türeci</b> (co-founder of BioNTech and pioneer of mRNA technology). Her global contributions to biotechnology and medicine serve as my primary blueprint for innovation, pushing me to build impactful solutions through software architecture and computer science.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
