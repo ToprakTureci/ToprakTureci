@@ -17,7 +17,7 @@
       <p>Alongside game development, I love solving complex algorithms. I am a student at <b>Yaşar Kımıl Fen Lisesi</b> and ranked <b>10th in Turkey</b> in the 31st National Logic & Brain Teasers Competition organized by the <b>Turkish Intelligence Foundation (TZV)</b>. Driven by science and structural logic, I strive to push the boundaries of digital innovation.</p>
       <br>
       <ul>
-        <li>🔭 &nbsp;<strong>Currently building:</strong> <a href="ttcodersstudio.netlify.app/oyunlar/new-game.html">Pide Please!</a></li>
+        <li>🔭 &nbsp;<strong>Currently building:</strong> Pide Please!</a></li>
         <li>🌱 &nbsp;<strong>Mastering:</strong> Advanced Python Automation & Scripting</li>
         <li>🎮 &nbsp;<strong>Featured Titles:</strong> <i>GeoMystery</i>, <i>Last Breath on Island</i></li>
         <li>💬 &nbsp;<strong>Let's talk about:</strong> Unity, Unreal Engine, Game Architecture, 3D Assets</li>
