@@ -90,7 +90,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://ttcodersstudio.netlify.app">
+  <a href="https://ttcodersstudio.netlify.app/ekip/toprak-türeci.html">
     <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=00FF66&labelColor=1A233A" />
   </a>
   <a href="https://instagram.com/ttcodersstudio">
